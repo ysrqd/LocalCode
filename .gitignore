@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+dist/
+build/
+*.spec
+localcode.log
+main_web.py
